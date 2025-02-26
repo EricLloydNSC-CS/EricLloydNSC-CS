@@ -1,6 +1,12 @@
 ## Hi there 👋
 
-<img src="Eric2025.jpg" alt="Picture of Eric Lloyd" width="200" height="200">
+<table align="center">
+  <tr>
+    <td align="center"><img src="Eric2025.jpg" alt="Picture of Eric Lloyd" width="200" height="200"></td>
+    <td align="center"><img src="Yuna&Yoshi.png" alt="Picture of Dog and cat" width="300" height="200"></td>
+  </tr>
+</table>
+
 
 I am a professor at North Seattle College for the Bachelor of Science in Computer Science program. I have been in this role since Fall of 2022 and I have the best job in the world because I get to work with the most amazing students! I love developing curriculum for students to help them learn and finding new ways to help lift up those who have not have the privelages others have had so they can change their lives!
 
@@ -11,5 +17,6 @@ I am a professor at North Seattle College for the Bachelor of Science in Compute
 - 💬 Ask me about how you can learn or help students develop their skills and become a force for good in tech!
 - 📫 How to reach me: eric.lloyd@seattlecolleges. Linked-In: https://www.linkedin.com/in/eric-lloyd-b1aa8722/
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I cannot live without the love of doggos!
+- ⚡ Fun fact: I cannot live without the love of doggos and kitties!
+
 
